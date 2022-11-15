@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Введиет число: ");
+Console.Write("Введите число: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 int ost=-1;
 if (num1 < 100)
